@@ -4017,11 +4017,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "GenerateYearlyReportPerformer",
-      "projectName": "GenerateYearlyReportPerformer",
-      "projectPath": "C:\\Users\\patri\\Desktop\\New folder\\Generate_Report\\Performer\\.local",
+      "projectUniqueName": "Performer",
+      "projectName": "Performer",
+      "projectPath": "C:\\Users\\patri\\Desktop\\Generate_Report\\Performer\\.local",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\New folder\\Generate_Report\\Performer\\.local"
+      "outputPath": "C:\\Users\\patri\\Desktop\\Generate_Report\\Performer\\.local"
     },
     "frameworks": {
       "net461": {

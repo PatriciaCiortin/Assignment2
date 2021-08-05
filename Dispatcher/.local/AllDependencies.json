@@ -5056,9 +5056,9 @@
     "restore": {
       "projectUniqueName": "Dispatcher",
       "projectName": "Dispatcher",
-      "projectPath": "C:\\Users\\patri\\Desktop\\New folder\\Dispatcher\\.local",
+      "projectPath": "C:\\Users\\patri\\Desktop\\Generate_Report\\Dispatcher\\.local",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Desktop\\New folder\\Dispatcher\\.local"
+      "outputPath": "C:\\Users\\patri\\Desktop\\Generate_Report\\Dispatcher\\.local"
     },
     "frameworks": {
       "net461": {
